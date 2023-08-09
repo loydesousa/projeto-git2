@@ -1,2 +1,1 @@
-# projeto-git2
-testes de git e github
+Olá esse projeto ensina como usar o git

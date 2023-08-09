@@ -1,1 +1,1 @@
-Olá esse projeto ensina como usar o git
+Projeto que utilizarei git, github e possivelmente o gitkraken
